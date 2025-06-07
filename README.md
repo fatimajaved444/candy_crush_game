@@ -13,5 +13,9 @@ Match candies, pop the candies, and earn points!
 
 ---
 
-## 🎥  Video
-https://github.com/fatimajaved444/candy_crush_game/blob/main/console_output/pf_project.mp4
+## 🎥 Demo Video
+
+<video width="600" controls>
+  <source src="console_output/pf_project.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
