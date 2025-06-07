@@ -11,6 +11,7 @@ void gotoxy(int x, int y)
 
 }
 
+
 void myLine(int x1, int y1, int x2, int y2,int color) //use three 3 integers if you want colored lines.
 {
 	HWND console_handle = GetConsoleWindow();
